@@ -1,8 +1,12 @@
-body{
-background-color: black;
-font-style: italic;
-color: white;
+body {
+    background-color: #000;
 }
-header {
-    font-weight: bolder;
+
+body, p, h1, h2, h3, h4, h5, h6 {
+    color: #fff;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
 }
